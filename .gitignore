@@ -1,0 +1,11 @@
+# Cache Python
+__pycache__/
+*.pyc
+
+# MLflow local (bases de données et artefacts)
+mlflow.db
+mlruns/
+
+# Environnement virtuel
+venv/
+.venv/
